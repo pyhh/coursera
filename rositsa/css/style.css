@@ -1,0 +1,71 @@
+h1, h2, h3 {
+    font-size: 24px;
+}
+
+.menu-item {
+    float: left;
+    margin: 0px;
+    padding: 10px;
+}
+
+.menu-title {
+    position: relative;
+    padding: 2px;
+    border: solid 1px;
+    text-align: center;
+}
+
+.menu-description {
+    border: black solid 0px;
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+.red {
+    background-color: pink;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.nav-item {
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: lightblue;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.navbar-toggler-icon {
+    padding-right: 20px;
+}
+
+.nav-item {
+    text-align: center;
+}
+
+#navbar-dropdown {
+    background-color: skyblue;
+}
+
+.review-item > img {
+    max-width: 240px;
+}
+
+.review-item > div {
+max-width: 240px;
+}
+
+.review-item {
+    padding: 20px;
+    margin: 0px;
+}
